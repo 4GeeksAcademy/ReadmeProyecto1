@@ -6,4 +6,4 @@
 4. What do you think using global variable is wrong in this code: es mas complicado de leer y da como resultado un codigo mas sucio e innecesario aparte que cambiando el orden podria darnos un resultado erroneo
 5. How can you acumulate without global variables: declarar el resultado en una variable y la llamamos en la siguiente funcion.
 6. How can we remove the "else" statement from this function?: al tener nuestro return declarado no haria falta tener el else.
-7. How can this code be improve?: ahorrandonos las lineas de else puesto que como en el ejercicio anterior serian innecesarias y añadiendo operadores logicos &&
+7. How can this code be improve?: ahorrandonos las lineas de else puesto que como en el ejercicio anterior serian innecesarias y añadiendo operadores logicos &&.
